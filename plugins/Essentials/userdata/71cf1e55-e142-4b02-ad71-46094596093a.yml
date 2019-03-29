@@ -1,0 +1,21 @@
+lastAccountName: CoffeeVector
+timestamps:
+  login: 1553819914562
+  lastteleport: 1553821993150
+  logout: 1553822779651
+ipAddress: 25.14.139.138
+lastlocation:
+  world: world
+  x: 33.4664756993117
+  y: 93.36813653174065
+  z: -570.1811873813973
+  yaw: 207.44855
+  pitch: 17.399702
+logoutlocation:
+  world: world
+  x: 15.442360513252705
+  y: 96.67522925751177
+  z: -592.8560790558753
+  yaw: 308.23077
+  pitch: 62.0999
+afk: false

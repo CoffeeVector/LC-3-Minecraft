@@ -1,0 +1,21 @@
+lastAccountName: shadeslayer5
+timestamps:
+  login: 1553817138105
+  lastteleport: 1553752342801
+  logout: 1553838542752
+ipAddress: 25.14.232.23
+lastlocation:
+  world: world
+  x: 54.231080730277064
+  y: 75.49636074181419
+  z: -62.76078824999319
+  yaw: 277.45584
+  pitch: 53.056427
+logoutlocation:
+  world: world
+  x: 70.84095596494836
+  y: 112.0491596090253
+  z: -539.3682174672931
+  yaw: 34.57617
+  pitch: 32.20031
+afk: false

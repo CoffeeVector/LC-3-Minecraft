@@ -1,295 +1,35 @@
-[00:00:03] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:00:26] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:00:28] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:00:42] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:00:44] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:01:59] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3
-[00:02:03] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:02:16] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:03:13] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:03:17] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:03:19] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:03:30] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:03:33] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:04:09] [Server thread/INFO]: shadeslayer5 issued server command: //pos2
-[00:04:12] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:04:47] [Server thread/INFO]: shadeslayer5 issued server command: //expand 5
-[00:04:50] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:04:57] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:05:22] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:05:24] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:06:03] [Server thread/INFO]: shadeslayer5 issued server command: //expand 5
-[00:06:06] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:06:08] [Server thread/INFO]: shadeslayer5 issued server command: //undo\
-[00:06:11] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:06:13] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:06:15] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:06:26] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:06:28] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:06:55] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:07:00] [Server thread/INFO]: shadeslayer5 issued server command: //stack 31
-[00:13:01] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:13:57] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:15:57] [Server thread/INFO]: shadeslayer5 issued server command: //pos2
-[00:16:00] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3
-[00:16:04] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:16:13] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
-[00:19:51] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:20:20] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:21:39] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:21:47] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:22:01] [Server thread/INFO]: shadeslayer5 issued server command: //expand 100
-[00:22:04] [Server thread/INFO]: shadeslayer5 issued server command: //expand 100
-[00:22:08] [Server thread/INFO]: shadeslayer5 issued server command: //expand 150
-[00:22:28] [Server thread/INFO]: shadeslayer5 issued server command: //copy
-[00:22:30] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:22:34] [Server thread/INFO]: shadeslayer5 issued server command: //paste
-[00:23:36] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:24:19] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:24:23] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:24:35] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:25:03] [Server thread/INFO]: shadeslayer5 issued server command: //expand 100
-[00:25:08] [Server thread/INFO]: shadeslayer5 issued server command: //expand 100
-[00:25:11] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:25:13] [Server thread/INFO]: shadeslayer5 issued server command: //expand 100
-[00:25:18] [Server thread/INFO]: shadeslayer5 issued server command: //expand 150
-[00:25:25] [Server thread/INFO]: shadeslayer5 issued server command: //copy
-[00:25:27] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:25:30] [Server thread/INFO]: shadeslayer5 issued server command: //paste
-[00:26:13] [Server thread/INFO]: shadeslayer5 issued server command: //pos2
-[00:26:17] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:26:19] [Server thread/INFO]: shadeslayer5 issued server command: //stack 31
-[00:28:39] [Server thread/INFO]: shadeslayer5 issued server command: //expand 50
-[00:28:44] [Server thread/INFO]: shadeslayer5 issued server command: //expand 20
-[00:28:51] [Server thread/INFO]: shadeslayer5 issued server command: //stack 100
-[00:29:26] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:29:26] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:29:26] [Server thread/WARN]: CoffeeVector moved too quickly! 9.42051186325449,0.0,-4.480872650412664
-[00:29:26] [Server thread/INFO]: CoffeeVector lost connection: Disconnected
-[00:29:26] [Server thread/INFO]: CoffeeVector left the game
-[00:29:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34970ms or 699 ticks behind
-[00:29:28] [User Authenticator #3/INFO]: UUID of player CoffeeVector is 71cf1e55-e142-4b02-ad71-46094596093a
-[00:29:28] [Server thread/INFO]: CoffeeVector[/25.14.139.138:60830] logged in with entity id 6612159 at ([world]143.40589096480784, 83.26203913245051, -511.00991544696416)
-[00:29:38] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:29:47] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:29:57] [Server thread/WARN]: shadeslayer5 moved too quickly! 12.042367487954209,9.181672973427226,-23.398350383678462
-[00:29:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9398ms or 187 ticks behind
-[00:30:40] [Server thread/INFO]: shadeslayer5 issued server command: //expand 30
-[00:30:44] [Server thread/INFO]: shadeslayer5 issued server command: //expand 40
-[00:30:48] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:30:56] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:30:58] [Server thread/INFO]: shadeslayer5 issued server command: //paste
-[00:31:37] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:31:42] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:33:39] [Server thread/INFO]: CoffeeVector issued server command: //up
-[00:33:43] [Server thread/INFO]: CoffeeVector issued server command: //up 1
-[00:33:50] [Server thread/INFO]: CoffeeVector issued server command: //move 1
-[00:33:57] [Server thread/INFO]: CoffeeVector issued server command: //undo
-[00:33:59] [Server thread/INFO]: CoffeeVector issued server command: //up 1
-[00:34:07] [Server thread/INFO]: CoffeeVector issued server command: //move 1
-[00:34:31] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3
-[00:34:34] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:34:48] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3
-[00:34:49] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:35:14] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:35:17] [Server thread/INFO]: shadeslayer5 issued server command: //paste
-[00:35:28] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:35:31] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:36:28] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3
-[00:36:30] [Server thread/INFO]: shadeslayer5 issued server command: //stack 3
-[00:37:33] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3
-[00:37:36] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:37:50] [Server thread/INFO]: CoffeeVector issued server command: /tp CoffeeVector shadeslayer5
-[00:37:50] [Server thread/INFO]: [CoffeeVector: Teleported CoffeeVector to shadeslayer5]
-[00:37:58] [Server thread/INFO]: shadeslayer5 issued server command: //copy
-[00:38:00] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:38:04] [Server thread/INFO]: shadeslayer5 issued server command: //paste
-[00:38:35] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3
-[00:38:37] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:38:56] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3
-[00:38:59] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3
-[00:39:01] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:39:10] [Server thread/INFO]: CoffeeVector issued server command: //set redstone_wire
-[00:39:19] [Server thread/INFO]: CoffeeVector issued server command: //set redstone_wire
-[00:39:38] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:39:48] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:39:52] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:39:54] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:40:10] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:40:13] [Server thread/INFO]: shadeslayer5 issued server command: //expand 2
-[00:40:15] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:41:40] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:41:46] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:41:48] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:42:01] [Server thread/INFO]: CoffeeVector issued server command: //stack 5
-[00:42:11] [Server thread/INFO]: shadeslayer5 issued server command: //stack 5
-[00:42:16] [Server thread/INFO]: CoffeeVector issued server command: //set air
-[00:43:16] [Server thread/INFO]: shadeslayer5 issued server command: //stack 30
-[00:43:53] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:43:55] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:46:06] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[00:46:11] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:46:14] [Server thread/INFO]: CoffeeVector issued server command: //undo
-[00:46:21] [Server thread/INFO]: CoffeeVector issued server command: //pos 2
-[00:46:23] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[00:46:27] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:46:39] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:46:59] [Server thread/INFO]: CoffeeVector issued server command: //set redstone_wire
-[00:47:29] [Server thread/INFO]: CoffeeVector issued server command: //pos 2
-[00:47:31] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[00:47:35] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:47:38] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:47:56] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:48:17] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[00:48:20] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:48:26] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:48:33] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:48:37] [Server thread/INFO]: CoffeeVector issued server command: //set repeated
-[00:48:39] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:48:44] [Server thread/INFO]: CoffeeVector issued server command: //set repeater
-[00:48:57] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[00:48:58] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:49:00] [Server thread/INFO]: CoffeeVector issued server command: /stack 15
-[00:49:02] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:49:07] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:49:12] [Server thread/INFO]: shadeslayer5 issued server command: //expand 2
-[00:49:16] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
-[00:49:49] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[00:49:49] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:49:53] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:49:54] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:49:56] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:49:59] [Server thread/INFO]: CoffeeVector issued server command: //pos 2
-[00:50:00] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[00:50:03] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:50:08] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:50:22] [Server thread/INFO]: CoffeeVector issued server command: //stack 2
-[00:51:34] [Server thread/INFO]: CoffeeVector issued server command: //stack 2
-[00:51:38] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:51:40] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:51:48] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:51:50] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:52:04] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:52:06] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:52:11] [Server thread/INFO]: shadeslayer5 issued server command: //stack 5
-[00:52:18] [Server thread/INFO]: shadeslayer5 issued server command: //expand 30
-[00:52:22] [Server thread/INFO]: shadeslayer5 issued server command: //stack 5
-[00:52:27] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:52:30] [Server thread/INFO]: shadeslayer5 issued server command: //stack 5
-[00:52:46] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:52:52] [Server thread/INFO]: shadeslayer5 issued server command: //stack 4
-[00:53:23] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:53:24] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:54:01] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[00:54:05] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:54:11] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[00:54:17] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[00:54:35] [Server thread/INFO]: CoffeeVector issued server command: //stack 3
-[00:54:47] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:54:57] [Server thread/INFO]: shadeslayer5 issued server command: //stack 60
-[00:55:00] [Server thread/INFO]: CoffeeVector issued server command: //stack 1
-[00:55:28] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:55:29] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:55:33] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[00:55:36] [Server thread/INFO]: CoffeeVector issued server command: //set air
-[00:55:46] [Server thread/INFO]: CoffeeVector issued server command: //set air
-[00:55:50] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:55:52] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:56:01] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:56:03] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:56:15] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:56:16] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:56:29] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[00:56:31] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[00:57:24] [Server thread/INFO]: shadeslayer5 issued server command: //pos2
-[00:57:25] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[00:57:44] [Server thread/INFO]: shadeslayer5 issued server command: //cut
-[01:00:53] [Server thread/INFO]: CoffeeVector issued server command: //set air
-[01:00:56] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:00:58] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[01:01:17] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:01:22] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:01:31] [Server thread/INFO]: CoffeeVector issued server command: //set air
-[01:01:49] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:01:53] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:03:25] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:03:29] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:03:38] [Server thread/INFO]: CoffeeVector issued server command: //set redstone_wire
-[01:05:14] [Server thread/INFO]: CoffeeVector issued server command: //wand
-[01:05:22] [Server thread/INFO]: CoffeeVector issued server command: //set iar
-[01:05:23] [Server thread/INFO]: CoffeeVector issued server command: //set air
-[01:05:31] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:05:34] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:05:51] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:05:54] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:06:16] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:06:20] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:06:42] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:06:58] [Server thread/INFO]: CoffeeVector issued server command: //pos
-[01:07:00] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:07:03] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:07:06] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:07:28] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:07:32] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:11:06] [Server thread/INFO]: CoffeeVector lost connection: Disconnected
-[01:11:06] [Server thread/INFO]: CoffeeVector left the game
-[01:29:42] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:29:44] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[01:29:55] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:29:57] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[01:30:09] [User Authenticator #4/INFO]: UUID of player CoffeeVector is 71cf1e55-e142-4b02-ad71-46094596093a
-[01:30:09] [Server thread/INFO]: CoffeeVector[/25.14.139.138:60952] logged in with entity id 10370555 at ([world]133.2568011046834, 111.26499277332441, -530.4831088068104)
-[01:31:03] [Server thread/INFO]: CoffeeVector issued server command: //set air
-[01:31:10] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:31:14] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:31:56] [Server thread/INFO]: CoffeeVector issued server command: //pos1
-[01:32:03] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:32:06] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:32:07] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:32:09] [Server thread/INFO]: CoffeeVector issued server command: //undo
-[01:32:13] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:32:14] [Server thread/INFO]: shadeslayer5 issued server command: //stack 31
-[01:32:16] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:32:32] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:32:33] [Server thread/INFO]: shadeslayer5 issued server command: //stack 31
-[01:32:39] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:34:00] [Server thread/INFO]: CoffeeVector issued server command: //up 1
-[01:34:21] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:34:22] [Server thread/INFO]: shadeslayer5 issued server command: //stack 31
-[01:34:27] [Server thread/INFO]: CoffeeVector issued server command: //up 1
-[01:35:21] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:35:22] [Server thread/INFO]: shadeslayer5 issued server command: //stack 31
-[01:35:30] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[01:36:35] [Server thread/INFO]: shadeslayer5 issued server command: //stack 21
-[01:38:30] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:38:32] [Server thread/INFO]: shadeslayer5 issued server command: //stack 14
-[01:39:37] [Server thread/INFO]: CoffeeVector issued server command: //pos 2
-[01:39:39] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:39:44] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:39:59] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:40:00] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:40:01] [Server thread/INFO]: shadeslayer5 issued server command: //stack 31
-[01:40:03] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:40:10] [Server thread/INFO]: shadeslayer5 issued server command: //expand 64
-[01:40:18] [Server thread/INFO]: shadeslayer5 issued server command: //stack
-[01:40:39] [Server thread/INFO]: CoffeeVector issued server command: //pos1
-[01:40:39] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[01:40:47] [Server thread/INFO]: CoffeeVector issued server command: //pos2
-[01:40:51] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:41:02] [Server thread/INFO]: shadeslayer5 issued server command: //stack
-[01:41:19] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:41:42] [Server thread/INFO]: CoffeeVector issued server command: //wand
-[01:42:53] [Server thread/INFO]: shadeslayer5 issued server command: //expand 4
-[01:42:57] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:42:59] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[01:45:58] [Server thread/INFO]: CoffeeVector issued server command: //stack 15
-[01:49:21] [Server thread/INFO]: shadeslayer5 issued server command: //expand 13
-[01:49:26] [Server thread/INFO]: shadeslayer5 issued server command: //expand 5
-[01:49:29] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
-[01:49:31] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
-[01:55:35] [Server thread/INFO]: shadeslayer5 issued server command: //undo
-[01:56:05] [Server thread/INFO]: shadeslayer5 lost connection: Disconnected
-[01:56:05] [Server thread/INFO]: shadeslayer5 left the game
-[01:56:09] [Server thread/INFO]: CoffeeVector lost connection: Disconnected
-[01:56:09] [Server thread/INFO]: CoffeeVector left the game
+[00:01:08] [Server thread/INFO]: shadeslayer5 issued server command: /flyspeed 2.5
+[00:01:42] [Server thread/INFO]: shadeslayer5 issued server command: /flyspeed 2
+[00:10:07] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
+[00:10:09] [Server thread/INFO]: shadeslayer5 issued server command: //stack 7
+[00:10:17] [Server thread/INFO]: shadeslayer5 issued server command: //stack 14
+[00:10:31] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
+[00:10:33] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:10:42] [Server thread/INFO]: shadeslayer5 issued server command: //stack 3
+[00:10:45] [Server thread/INFO]: shadeslayer5 issued server command: //undo
+[00:10:48] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1 up
+[00:10:50] [Server thread/INFO]: shadeslayer5 issued server command: //stack 3
+[00:10:55] [Server thread/INFO]: shadeslayer5 issued server command: //stack 4
+[00:12:57] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
+[00:12:59] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:13:07] [Server thread/INFO]: shadeslayer5 issued server command: //undo
+[00:13:16] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:13:26] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:14:11] [Server thread/INFO]: shadeslayer5 has made the advancement [Stone Age]
+[00:15:19] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
+[00:15:21] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:15:31] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:15:51] [Server thread/INFO]: shadeslayer5 issued server command: //expand 15
+[00:15:58] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
+[00:16:00] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:16:19] [Server thread/INFO]: shadeslayer5 issued server command: //stack 1
+[00:25:54] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
+[00:25:56] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:27:41] [Server thread/INFO]: shadeslayer5 issued server command: //expand 3 up
+[00:27:44] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
+[00:27:47] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:28:29] [Server thread/INFO]: shadeslayer5 issued server command: //expand 1
+[00:28:30] [Server thread/INFO]: shadeslayer5 issued server command: //stack 15
+[00:40:04] [Server thread/INFO]: shadeslayer5 has reached the goal [Sky's the Limit]
+[00:49:02] [Server thread/INFO]: shadeslayer5 lost connection: Disconnected
+[00:49:02] [Server thread/INFO]: shadeslayer5 left the game
